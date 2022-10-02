@@ -1,0 +1,176 @@
+body {
+  font-family: "Montserrat", sans-serif;
+
+  background: #f5f7fa;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1280px;
+  justify-content: center;
+  margin: 0 auto;
+  background: white;
+  box-shadow: 6px 6px 20px 0px #0000001a;
+}
+
+aside {
+  width: 370px;
+
+  background: #1e2939;
+}
+
+.cv-photo {
+  margin-top: 25px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+.hsecondary {
+  color: white;
+}
+
+.contactlinks {
+  color: white;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.listsecondary {
+  color: #fb6d3a;
+  font-size: 14px;
+  line-height: 24px;
+  margin-left: 0;
+  padding-left: 0;
+  list-style-position: inside;
+}
+
+.listsecondaryitem {
+  color: white;
+}
+
+.contactblock {
+  margin-top: 51px;
+  margin-left: 40px;
+}
+
+.techskillsblock {
+  margin-top: 47px;
+  margin-left: 40px;
+}
+
+.softskillsblock {
+  margin-top: 44px;
+  margin-left: 40px;
+}
+
+main {
+  padding: 102px 44px 102px 88px;
+}
+
+.maindes {
+  width: 400px;
+}
+
+.jobtitle {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+}
+
+hi {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+}
+
+.des {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+
+  color: #595959;
+  margin-bottom: 40px;
+}
+
+.projects {
+  width: 485px;
+  margin-bottom: 51px;
+}
+
+.listprimary {
+  font-weight: 700;
+  font-size: 14px;
+  font-height: 24px;
+  padding-left: 0;
+  list-style-position: inside;
+
+  color: #000000;
+}
+
+.listprimaryitem {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+
+  color: #595959;
+  text-decoration: none;
+}
+
+.headerprimary {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+}
+
+.jobname {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.highlight {
+  color: #fb6d3a;
+}
+
+.jobdate {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+
+  color: #a8a8a8;
+}
+
+.joblist {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  padding-left: 0;
+  list-style-position: inside;
+  padding-right: 236px;
+  color: #595959;
+}
+
+.education {
+  margin-top: 43px;
+}
+
+.menagement {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+}
+
+.black {
+  color: black;
+}
